@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ba.etf.unsa.Artikal">
+   <children>
+      <TextArea layoutX="21.0" layoutY="13.0" prefHeight="158.0" prefWidth="241.0" />
+      <TextArea layoutX="25.0" layoutY="188.0" prefHeight="182.0" prefWidth="241.0" />
+      <Button layoutX="416.0" layoutY="49.0" mnemonicParsing="false" text="Dodaj artikle" />
+   </children>
+</AnchorPane>
